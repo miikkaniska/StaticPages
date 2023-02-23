@@ -1,23 +1,28 @@
-# The largest heading
-## This site was built using [GitHub Pages](https://pages.github.com/).
+# Github Pages-sivuni
+## Tämä on staattinen testisivusto Pilvipalvelut kurssia varten. Alkuun pääse tästä linkistä: [GitHub Pages](https://pages.github.com/).
 
 ## About me
 
-Hi, I'm Mona. You might recognize me as GitHub's mascot.
+Olen Miikka, 32v, ja opiskelen Oulun ammattikorkekoulussa tietotekniikkaa. 💻
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| Javascript|
+|     1| C#        |
 |     2| Python    |
 |     3| SQL       |
 
-> Text that is a quote
+> You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. -Dr. Seuss
 
-Some basic Git commands are:
+Git komennot, jotka olisi hyvä aina muistaa:
 ```
+git clone
 git status
 git add
 git commit
+git push
 ```
 
-The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
+Jos joskus teet nettisivuja, niin käytä `#ffffff` perinteistä valkoista ja  `#0d1117` ns. pimeää (dark mode) RGB-värejä.
+
+![testikuva](https://myoctocat.com/assets/images/base-octocat.svg)
+
