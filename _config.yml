@@ -1,3 +1,16 @@
-remote_theme: pages-themes/hacker@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have on
+# The largest heading
+## This site was built using [GitHub Pages](https://pages.github.com/).
+###### The smallest heading
+
+> Text that is a quote
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
+
+The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
