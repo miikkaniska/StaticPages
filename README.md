@@ -1,9 +1,12 @@
 # Github Pages-sivuni
 ## Tämä on staattinen testisivusto Pilvipalvelut[^1] kurssia varten. Alkuun pääse tästä linkistä: [GitHub Pages](https://pages.github.com/).
 
-## About me
+## *About me*
 
-Olen Miikka, 32v, ja opiskelen Oulun ammattikorkekoulussa tietotekniikkaa. 💻
+Olen Miikka, 32v, ja opiskelen Oulun ammattikorkekoulussa tietotekniikkaa. 💻 
+
+
+Tietotekniikan lisäksi harrastuksiin kuuluvat lukeminen sekä ulkoilu koirien kanssa.
 
 | Rank | Languages |
 |-----:|-----------|
@@ -18,7 +21,7 @@ Olen Miikka, 32v, ja opiskelen Oulun ammattikorkekoulussa tietotekniikkaa. 💻
 > -Dr. Seuss
 
 
-Git komennot, jotka olisi hyvä aina muistaa:
+Git komennot, jotka olisi hyvä aina muistaa mutta tulee kuitenkin googletettua:
 ```
 git clone
 git status
@@ -31,4 +34,4 @@ Jos joskus teet nettisivuja, niin käytä `#ffffff` perinteistä valkoista ja  `
 
 ![testikuva](https://myoctocat.com/assets/images/base-octocat.svg)
 
-[^1]: Kurssisivut: https://tl.oamk.fi/cloudservices/
+[^1]: [Kurssisivut](https://tl.oamk.fi/cloudservices/).
